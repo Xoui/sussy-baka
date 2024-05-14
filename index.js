@@ -9,7 +9,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // Configure session handling
 app.use(
   session({
-    secret: 'your-secret-key',
+    secret: 'no jeyy',
     resave: false,
     saveUninitialized: false
   })
